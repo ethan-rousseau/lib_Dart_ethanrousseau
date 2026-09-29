@@ -9,3 +9,6 @@ void write(Object? obj){
   stdout.write(obj);
 }
 
+void coucou(){
+  writeLine("Coucou");
+}
